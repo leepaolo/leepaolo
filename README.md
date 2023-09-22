@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">👉 Looking for a qualified developer? You found the right person!</h2>
+<h2 align="left">👉 Looking for a qualified developer?</h2>
 
 ###
 
