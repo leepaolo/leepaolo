@@ -1,5 +1,4 @@
 ### Hi there 👋
-<h1 align="left">Ciao 👋</h1>
 
 ###
 
