@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Ciao 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">➡ Utilize cutting-edge web technologies to create websites quick and user-centric;<br>➡ Rigorously test all coding to ensure it meets the highest standards;<br>➡ Convert design wireframes and prototypes into premium-quality code;<br>➡ Fine-tune applications for optimal speed and scalability;<br>➡ Deliver clean, structured, and resilient code that meets specified requirements</p>
+<p align="left">I have a wide range of skills and enough experience to make every project unique.<br><br>📌 STACK Skills:<br>- Angular | RxJS<br>- JavaScript/ES6/TypeScript<br>- HTML5/CSS/Bootstrap/Tailwind<br>- Firebase<br>- MongoDB<br>- Git(GitHub / Git)<br><br>📌 SOFT Skills:<br>- Communication Skills<br>- Teamwork and Collaboration<br>- Problem-solving and Critical Thinking<br>- Adaptability and Flexibility<br>- Emotional Intelligence (EQ)</p>
 
 ###
 
